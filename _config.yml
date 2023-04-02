@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Syed Osama Ahmed
+description: Mobile Application Developer
 
 baseurl: #name of GitHub repository
 url: "https://syedosamaahmed.github.io/osamahmed/" #custom url to be used instead of GitHub repository
@@ -47,6 +47,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
+      - car_rental_app.md
+      - hive.md
+      - calculator.md
       - shortProject.md
       - longerProjectTitle.md
       - redirect.md

@@ -11,7 +11,7 @@ Hi, I'm Osama. I'm a mobile application developer having two years of experience
 
 ## Skills:
 
-I have experience in the following tech stacks:
+I have experience in the following technologies:
 - Flutter
 - React Native
 - MongoDB
