@@ -2,6 +2,7 @@
 layout: post
 title: Calculator App
 description: View details
+redirect: false
 
 ---
 
@@ -16,4 +17,3 @@ This application is built using fluter and value notifiers. It performs simple o
 - multiplication
 - division
 
-for details of the project, please visit [calculator_app](https://github.com/SyedOsamaAhmed/calculator_app)

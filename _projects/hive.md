@@ -3,6 +3,9 @@ layout: post
 title: Book Storage App
 description: View details
 
+
+redirect: false
+
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title: Car Rental App
 description: View details
 
+redirect: false
 ---
 
 
