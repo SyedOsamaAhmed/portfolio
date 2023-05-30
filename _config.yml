@@ -46,6 +46,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+    sort_by: index
     order:
       - smart_water_tank.md
       - car_rental.md

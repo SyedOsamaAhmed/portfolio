@@ -33,3 +33,4 @@ I have taken the following courses and learned in my free time:
 - Flutter 
 - React Native
 - Programming languages (JavaScript)
+
