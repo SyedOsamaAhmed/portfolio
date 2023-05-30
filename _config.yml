@@ -47,6 +47,7 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
+      - smart_water_tank.md
       - car_rental.md
       - hive.md
       - calculator.md

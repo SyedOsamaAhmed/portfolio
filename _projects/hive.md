@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Storage App
+title: Book Storage 
 description: View details
 
 
