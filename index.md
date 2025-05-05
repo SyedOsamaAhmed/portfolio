@@ -7,11 +7,12 @@ profile:
 published: true
 ---
 
-Hi, I'm Osama. I'm a mobile application developer having two years of experience. I like reading blogs, learning new tech stacks and upskilling myself. I aim to develop mobile applications that help solve real-world problems and provide value. I deliver top-quality applications. I'm mainly focused on client satisfaction and try to exceed expectations. 
+Hi, I'm Osama. I'm a software engineer having two years of experience. I like reading blogs, learning new tech stacks and upskilling myself. I aim to develop applications that help solve real-world problems and provide value. I deliver top-quality applications. I'm mainly focused on client satisfaction and try to exceed expectations.
 
 ## Skills:
 
 I have experience in the following technologies:
+
 - Flutter
 - React Native
 - MongoDB
@@ -21,16 +22,12 @@ I have experience in the following technologies:
 - Firebase
 - React
 
-
-
-
 ### Courses:
-I have taken the following courses and learned in my free time:
+
+I have taken the following courses:
 
 - OOP
 - Data Structures
-- Web Development
-- Flutter 
+- Flutter
 - React Native
-- Programming languages (JavaScript)
-
+- Programming languages (JavaScript,TypeScript,Python,C#,Dart)
